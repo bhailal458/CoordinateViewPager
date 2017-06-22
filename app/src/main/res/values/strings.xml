@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CoordinateViewPager</string>
+    <string name="java">Java is a widely used programming language expressly designed for use in the
+        distributed environment of the internet. It is the most popular programming language for Android smartphone applications and is among the most favored for edge device and internet of things development.
+        Java was designed to have the look and feel of the C++ language, but it is simpler to use than
+        C++ and enforces an object-oriented programming model. Java can be used to create complete applications
+        that may run on a single computer or be distributed among servers and clients in a network.
+        It can also be used to build a small application module or applet for use as part of a webpage.
+    </string>
+    <string name="name">JAVA</string>
+    <string name="android">Android is a mobile operating system developed by Google, based on the Linux
+        kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.
+        Android user interface is mainly based on direct manipulation, using touch gestures that loosely
+        correspond to real-world actions, such as swiping, tapping and pinching, to
+        manipulate on-screen objects, along with a virtual keyboard for text input. In addition to
+        touchscreen devices, Google has further developed Android TV for televisions,
+        Android Auto for cars, and Android Wear for wrist watches, each with a specialized user interface.
+        Variants of Android are also used on notebooks, game consoles, digital cameras, and other electronics.</string>
+
+</resources>
